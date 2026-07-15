@@ -1,0 +1,178 @@
+{
+  "levelId": 3,
+  "conveyorCapacity": 18,
+  "activeDestinationCount": 4,
+  "trucks": [
+    {
+      "id": "truck_01",
+      "balls": [
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple"
+      ]
+    },
+    {
+      "id": "truck_02",
+      "balls": [
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange",
+        "red",
+        "blue"
+      ]
+    },
+    {
+      "id": "truck_03",
+      "balls": [
+        "green",
+        "purple",
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange"
+      ]
+    },
+    {
+      "id": "truck_04",
+      "balls": [
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple"
+      ]
+    },
+    {
+      "id": "truck_05",
+      "balls": [
+        "yellow",
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "yellow",
+        "orange"
+      ]
+    }
+  ],
+  "destinationQueue": [
+    {
+      "color": "red",
+      "capacity": 4
+    },
+    {
+      "color": "blue",
+      "capacity": 4
+    },
+    {
+      "color": "green",
+      "capacity": 4
+    },
+    {
+      "color": "purple",
+      "capacity": 4
+    },
+    {
+      "color": "yellow",
+      "capacity": 4
+    },
+    {
+      "color": "orange",
+      "capacity": 4
+    },
+    {
+      "color": "red",
+      "capacity": 4
+    },
+    {
+      "color": "blue",
+      "capacity": 4
+    },
+    {
+      "color": "green",
+      "capacity": 4
+    },
+    {
+      "color": "purple",
+      "capacity": 4
+    },
+    {
+      "color": "yellow",
+      "capacity": 4
+    },
+    {
+      "color": "orange",
+      "capacity": 4
+    },
+    {
+      "color": "red",
+      "capacity": 4
+    },
+    {
+      "color": "blue",
+      "capacity": 4
+    },
+    {
+      "color": "green",
+      "capacity": 4
+    },
+    {
+      "color": "purple",
+      "capacity": 4
+    },
+    {
+      "color": "yellow",
+      "capacity": 4
+    },
+    {
+      "color": "orange",
+      "capacity": 4
+    }
+  ]
+}

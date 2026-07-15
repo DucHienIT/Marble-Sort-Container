@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee3f5b397b18dec4eab0a0c0ffa63089, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  targetFrameRate: 60
+  cameraSize: 8.3
+  cameraCenter: {x: 0, y: 0.6}
+  cameraFov: 32
+  cameraPitch: 6
+  tileDepth: 0.5
+  tileReleaseSpread: 0.5
+  tilePopDuration: 0.18
+  tilePressScale: 0.12
+  pourFlyDuration: 0.45
+  funnelDrainInterval: 0.2
+  funnelDropDuration: 0.16
+  ballRadius: 0.3
+  ballGravityScale: 2.2
+  ballBounciness: 0.35
+  ballLinearDrag: 0.15
+  ballMaxSpeed: 22
+  spillJitter: {x: 0.22, y: 0.15}
+  releaseImpulse: 2.2
+  slideStuckTimeout: 3.5
+  conveyorSpeed: 3.2
+  ballSpacing: 0.62
+  deliverFlyDuration: 0.28
+  boxPunchScale: 0.28
+  boxCompleteScale: 0.5
+  tapCooldown: 0.12
+  sfxVolume: 0.8
+  musicVolume: 0.35
